@@ -1,6 +1,6 @@
 # Hi, I'm Gary 👋
 
-Industrial Engineering student who ended up vibe coding full-stack apps with Claude instead of anything remotely related to my degree.
+A Filipino Industrial Engineering student who likes to vibe code for fun and learning in general.
 
 ## Now
 
