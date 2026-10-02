@@ -8,6 +8,3 @@ A Filipino Industrial Engineering student who likes to vibe code for fun and lea
 - Building **[saffron-web](https://github.com/garyreyes/saffron-web)** — a web project in progress.
 - Generally shipping whatever idea won't leave me alone, one Claude conversation at a time.
 
-## Stack
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql,ts,js,numpy,pandas,git,tailwind,github&theme=dark" alt="Tech stack icons"/>
